@@ -1,6 +1,6 @@
 # Sentiment Analysis on Walmart using Twitter
 
-
+We present a tool that performs sentiment analysis of Walmart using data extracted from Twitter. We present a tool for sentiment analysis that can analyze Twitter data. We have demonstrated the method to collect a corpus and using the corpus, we build a sentiment classifier, that can determine positive, negative, and neutral sentiments. We used simple machine learning models and NLP toolkit for our study.
 
 ## Dataset Information
 
